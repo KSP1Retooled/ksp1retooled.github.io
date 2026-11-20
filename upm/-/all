@@ -5,10 +5,10 @@
     "description": "A fork of Unity.Physics designed to perform well for large jointed craft and meant to be used by the native physics interface",
     "maintainers": [],
     "versions": {
-      "0.1.2": "latest"
+      "0.1.3": "latest"
     },
     "time": {
-      "modified": "2026-11-20T02:56:33Z"
+      "modified": "2026-11-20T09:31:17Z"
     },
     "keywords": [
       "unity",
