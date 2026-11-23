@@ -2,6 +2,31 @@
   "objects": [
     {
       "package": {
+        "name": "io.github.ksp1retooled.fsr",
+        "scope": "",
+        "description": "AMD FSR upscaling and native anti-aliasing for Unity's built-in render pipeline on Windows, through a native plugin that runs AMD's FSR API on Unity's render thread.",
+        "version": "0.1.0",
+        "keywords": [],
+        "date": "2026-11-23T06:18:48Z",
+        "publisher": {},
+        "maintainers": [],
+        "links": {
+          "npm": ""
+        },
+        "displayName": "FSR"
+      },
+      "score": {
+        "final": 0,
+        "detail": {
+          "quality": 0,
+          "popularity": 0,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 1
+    },
+    {
+      "package": {
         "name": "io.github.ksp1retooled.physics",
         "scope": "",
         "description": "A fork of Unity.Physics designed to perform well for large jointed craft and meant to be used by the native physics interface",
@@ -54,6 +79,6 @@
       "searchScore": 1
     }
   ],
-  "total": 2,
-  "time": "2026-11-23T06:14:45Z"
+  "total": 3,
+  "time": "2026-11-23T06:18:48Z"
 }
