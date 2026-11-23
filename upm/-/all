@@ -17,10 +17,10 @@
     "description": "AMD FSR upscaling and native anti-aliasing for Unity's built-in render pipeline on Windows, through a native plugin that runs AMD's FSR API on Unity's render thread.",
     "maintainers": [],
     "versions": {
-      "0.1.0": "latest"
+      "0.2.0": "latest"
     },
     "time": {
-      "modified": "2026-11-23T06:18:48Z"
+      "modified": "2026-11-23T09:13:34Z"
     },
     "keywords": []
   },
