@@ -14,5 +14,17 @@
       "unity",
       "physics"
     ]
+  },
+  "io.github.ksp1retooled.xess": {
+    "name": "io.github.ksp1retooled.xess",
+    "description": "Intel XeSS Super Resolution for Unity's built-in render pipeline on Windows, through a native plugin that runs the SDK on Unity's render thread.",
+    "maintainers": [],
+    "versions": {
+      "0.1.0": "latest"
+    },
+    "time": {
+      "modified": "2026-11-23T06:14:45Z"
+    },
+    "keywords": []
   }
 }
