@@ -1,0 +1,31 @@
+{
+  "name": "io.github.ksp1retooled.dlss",
+  "_id": "io.github.ksp1retooled.dlss",
+  "description": "NVIDIA DLSS Super Resolution and DLAA for Unity's built-in render pipeline on Windows, through a native plugin that runs NVIDIA's Streamline SDK on Unity's render thread.",
+  "dist-tags": {
+    "latest": "0.1.0"
+  },
+  "versions": {
+    "0.1.0": {
+      "name": "io.github.ksp1retooled.dlss",
+      "version": "0.1.0",
+      "displayName": "DLSS",
+      "description": "NVIDIA DLSS Super Resolution and DLAA for Unity's built-in render pipeline on Windows, through a native plugin that runs NVIDIA's Streamline SDK on Unity's render thread.",
+      "unity": "6000.7",
+      "dependencies": {},
+      "_id": "io.github.ksp1retooled.dlss@0.1.0",
+      "dist": {
+        "tarball": "https://github.com/KSP1Retooled/Retooled.DLSS/releases/download/v0.1.0/io.github.ksp1retooled.dlss-0.1.0.tgz",
+        "shasum": "7d44233e11fbe610acb2d785f9f1a6b23dce4c5e",
+        "integrity": "sha512-8r1QxUIVLk7gHlJqQObETbDo+ttroxAyw5kFCdhUH6T/y2/isDQ3I8Z2t7y39thFtlDbu3f/UJU30XK7fXr8tw==",
+        "fileCount": 80,
+        "unpackedSize": 2519887
+      }
+    }
+  },
+  "time": {
+    "created": "2026-11-23T06:19:13Z",
+    "modified": "2026-11-23T06:19:13Z",
+    "0.1.0": "2026-11-23T06:19:13Z"
+  }
+}

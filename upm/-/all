@@ -1,5 +1,17 @@
 {
   "_updated": 99999,
+  "io.github.ksp1retooled.dlss": {
+    "name": "io.github.ksp1retooled.dlss",
+    "description": "NVIDIA DLSS Super Resolution and DLAA for Unity's built-in render pipeline on Windows, through a native plugin that runs NVIDIA's Streamline SDK on Unity's render thread.",
+    "maintainers": [],
+    "versions": {
+      "0.1.0": "latest"
+    },
+    "time": {
+      "modified": "2026-11-23T06:19:13Z"
+    },
+    "keywords": []
+  },
   "io.github.ksp1retooled.fsr": {
     "name": "io.github.ksp1retooled.fsr",
     "description": "AMD FSR upscaling and native anti-aliasing for Unity's built-in render pipeline on Windows, through a native plugin that runs AMD's FSR API on Unity's render thread.",
