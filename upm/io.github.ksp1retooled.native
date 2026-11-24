@@ -1,0 +1,31 @@
+{
+  "name": "io.github.ksp1retooled.native",
+  "_id": "io.github.ksp1retooled.native",
+  "description": "Small native helpers for things Unity's C# API doesn't expose, such as whether the GPU shares system memory. Windows, Linux and macOS, x86_64.",
+  "dist-tags": {
+    "latest": "0.1.0"
+  },
+  "versions": {
+    "0.1.0": {
+      "name": "io.github.ksp1retooled.native",
+      "version": "0.1.0",
+      "displayName": "Retooled Native",
+      "description": "Small native helpers for things Unity's C# API doesn't expose, such as whether the GPU shares system memory. Windows, Linux and macOS, x86_64.",
+      "unity": "6000.7",
+      "dependencies": {},
+      "_id": "io.github.ksp1retooled.native@0.1.0",
+      "dist": {
+        "tarball": "https://github.com/KSP1Retooled/Retooled.Native/releases/download/v0.1.0/io.github.ksp1retooled.native-0.1.0.tgz",
+        "shasum": "bbca29d7586552dfd4ad558f4848e4a9cdaa6423",
+        "integrity": "sha512-NPaBorYgZhiT8MVpB7/LJf5Ni3j8vksfdzr+71eYzNNudwgTxN2zmTqNi6dMo1cgYTpQ0qUEkqARJYMV6JPMAg==",
+        "fileCount": 32,
+        "unpackedSize": 100354
+      }
+    }
+  },
+  "time": {
+    "created": "2026-11-24T05:18:28Z",
+    "modified": "2026-11-24T05:18:28Z",
+    "0.1.0": "2026-11-24T05:18:28Z"
+  }
+}

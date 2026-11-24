@@ -52,6 +52,31 @@
     },
     {
       "package": {
+        "name": "io.github.ksp1retooled.native",
+        "scope": "",
+        "description": "Small native helpers for things Unity's C# API doesn't expose, such as whether the GPU shares system memory. Windows, Linux and macOS, x86_64.",
+        "version": "0.1.0",
+        "keywords": [],
+        "date": "2026-11-24T05:18:28Z",
+        "publisher": {},
+        "maintainers": [],
+        "links": {
+          "npm": ""
+        },
+        "displayName": "Retooled Native"
+      },
+      "score": {
+        "final": 0,
+        "detail": {
+          "quality": 0,
+          "popularity": 0,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 1
+    },
+    {
+      "package": {
         "name": "io.github.ksp1retooled.physics",
         "scope": "",
         "description": "A fork of Unity.Physics designed to perform well for large jointed craft and meant to be used by the native physics interface",
@@ -104,6 +129,6 @@
       "searchScore": 1
     }
   ],
-  "total": 4,
-  "time": "2026-11-23T09:13:34Z"
+  "total": 5,
+  "time": "2026-11-24T05:18:28Z"
 }
