@@ -30,9 +30,9 @@
         "name": "io.github.ksp1retooled.fsr",
         "scope": "",
         "description": "AMD FSR upscaling and native anti-aliasing for Unity's built-in render pipeline on Windows, through a native plugin that runs AMD's FSR API on Unity's render thread.",
-        "version": "0.2.0",
+        "version": "0.2.1",
         "keywords": [],
-        "date": "2026-11-23T09:13:34Z",
+        "date": "2026-11-26T04:03:55Z",
         "publisher": {},
         "maintainers": [],
         "links": {
@@ -130,5 +130,5 @@
     }
   ],
   "total": 5,
-  "time": "2026-11-24T07:00:04Z"
+  "time": "2026-11-26T04:03:55Z"
 }
